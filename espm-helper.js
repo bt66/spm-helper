@@ -6,8 +6,8 @@
 // @match        https://itrams.bpjt.pu.go.id/*
 // @run-at       document-idle
 // @noframes
-// @updateURL    https://githubusercontent.com
-// @downloadURL  https://githubusercontent.com
+// @updateURL    https://raw.githubusercontent.com/bt66/spm-helper/refs/heads/main/espm-helper.js
+// @downloadURL  https://raw.githubusercontent.com/bt66/spm-helper/refs/heads/main/espm-helper.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setClipboard
 // @connect      itrams-api.bpjt.pu.go.id
